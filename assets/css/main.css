@@ -1335,3 +1335,13 @@ opacity: 0.3;
   text-align: left;
   font-size: 14px;
 }
+
+/* Connect Section*/
+.flexContainer1, .flexContainer2{
+  display: flex;
+  justify-content: center;
+}
+.flexContainer2{
+  flex-wrap: wrap;
+  gap: 1rem;
+}
